@@ -5,14 +5,12 @@
 A node.js module containing client  part of the InfraRed Remote Control
 <br>
 <br>
-
 <h3>Prerequisites</h3><br>
 Node.js - Download & Install Node.js and the npm package manager. If you encounter any problems, you can also use this GitHub Gist to install Node.js.
 MQTBroker- Setup and Host <a href="https://github.com/iotwale/irRemoteServer">irRemoteServer</a> on a cloud server 
 <br>
 <br>
 <h3>Installation</h3><br>
-
 At first install LIRC on RPi:<br>
 
 sudo apt-get install lirc<br>
@@ -47,15 +45,12 @@ node client.js
 <br>
 <br>
 <h3>Deployment</h3><br>
-
 Once Installation is done, create a systemctl daemon for starting the nodejs server on boot.
-
 <br><br>
 <h3>Built With</h3><br>
 Node.js
-
 <br><br>
 <h3>License</h3><br>
-This project is licensed under the MIT License - see the LICENSE.md file for details
+This project is licensed under the MIT License - see the <a href="https://github.com/iotwale/irRemoteClient/blob/master/LICENSE.md">LICENSE.md</a> file for details
 
 
