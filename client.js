@@ -1,6 +1,6 @@
 var mqtt = require('mqtt')
-var client  = mqtt.connect('mqtt://localhost')
-//localhost = 
+var client  = mqtt.connect('mqtt://hostname')
+//hostname = name/ip of MQTT Broker 
 var exec = require('child_process').exec;
 client.on('connect', function () {
   client.subscribe('/control')
