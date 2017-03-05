@@ -39,7 +39,7 @@ _dtoverlay=lirc-rpi,gpioinpin=17,gpiooutpin=18_
 <br><br>
 Now setup irRemoteClient Module from git.
 
-_git clone <a href="https://github.com/iotwale/irRemoteClient">irRemoteClient</a>
+_git clone <a href="https://github.com/iotwale/irRemoteClient">irRemoteClient</a><br>
 node client.js_
 <br>
 <br>
