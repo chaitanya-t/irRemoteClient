@@ -18,7 +18,7 @@ _sudo apt-get install lirc_<br>
 Add this to your /etc/modules file:<br>
 
 _lircdev<br>
-lircrpi gpioinpin=17 gpiooutpin=18<br>_
+lircrpi gpioinpin=17 gpiooutpin=18<br>_<br>
 <b>Note:</b>gpio_in_pin is for IR receiver to register specific commands and gpio_out_pin is for IR transmitter to send signals to control the device.
 <br><br>
 edit /etc/lirc/hardware.conf file and update following parameters:
