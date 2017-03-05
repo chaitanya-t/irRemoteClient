@@ -7,7 +7,7 @@ A node.js module containing client  part of the InfraRed Remote Control
 <br>
 <h3>Prerequisites</h3><br>
 Node.js - Download & Install Node.js and the npm package manager. If you encounter any problems, you can also use this GitHub Gist to install Node.js.<br>
-MQTTBroker- Setup and Host <a href="https://github.com/iotwale/irRemoteServer">irRemoteServer</a> on a cloud server 
+MQTTBroker- Setup and Host <a href="https://github.com/chaitanyaT99/irRemoteServer">irRemoteServer</a> on a cloud server 
 <br>
 <br>
 <h3>Installation</h3><br>
@@ -39,7 +39,7 @@ _dtoverlay=lirc-rpi,gpioinpin=17,gpiooutpin=18_
 <br><br>
 Now setup irRemoteClient Module from git.
 
-_git clone <a href="https://github.com/iotwale/irRemoteClient">irRemoteClient</a><br>
+_git clone <a href="https://github.com/chaitanyaT99/irRemoteClient">irRemoteClient</a><br>
 node client.js_
 <br>
 <br>
@@ -50,4 +50,4 @@ Once Installation is done, create a systemctl daemon for starting the nodejs ser
 <a href ="https://nodejs.org/en/">Node.js</a>
 <br><br>
 <h3>License</h3><br>
-This project is licensed under the MIT License - see the <a href="https://github.com/iotwale/irRemoteClient/blob/master/LICENSE.md">LICENSE.md</a> file for details
+This project is licensed under the MIT License - see the <a href="https://github.com/chaitanyaT99/irRemoteClient/blob/master/LICENSE.md">LICENSE.md</a> file for details
