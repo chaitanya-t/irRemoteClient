@@ -6,7 +6,7 @@ A node.js module containing client  part of the InfraRed Remote Control
 <br>
 <br>
 <h3>Prerequisites</h3><br>
-Node.js - Download & Install Node.js and the npm package manager. If you encounter any problems, you can also use this GitHub Gist to install Node.js.
+Node.js - Download & Install Node.js and the npm package manager. If you encounter any problems, you can also use this GitHub Gist to install Node.js.<br>
 MQTBroker- Setup and Host <a href="https://github.com/iotwale/irRemoteServer">irRemoteServer</a> on a cloud server 
 <br>
 <br>
